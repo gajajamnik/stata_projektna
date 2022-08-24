@@ -1,0 +1,225 @@
+PWD c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna
+INPUT C:\Users\gajaj\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.tex
+OUTPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.log
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.aux
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.aux
+OUTPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.aux
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+OUTPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.pdf
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+OUTPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1B.png
+INPUT C:\Users\gajaj\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1D.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1D.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1D.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1D.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1D.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1E.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1E.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1E.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1E.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1E.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1F(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure1G(1).png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2A.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2B.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\figure2C.png
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.aux
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT c:\Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.out
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\gajaj\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
