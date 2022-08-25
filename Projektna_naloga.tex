@@ -208,14 +208,14 @@ vrednost na danih inetrvalih. Ocena verjetnosti na intervalu $[x_{j-1}, x_j]$ bo
 \begin{equation}
     \hat{p_j} = \Phi \biggl(\frac{x_j - \overline{x}}{\hat{\sigma}}\biggr) - \Phi\biggl(\frac{x_{j-1} - \overline{x}}{\hat{\sigma}}\biggr),
 \end{equation}
-kjer je $\overline{x}$ povprečje naših podatkov, $\hat{\sigma}$ cenilka za standardni odklon.
+kjer je $\overline{x}$ povprečje naših podatkov, $\hat{\sigma}$ pa cenilka za standardni odklon.
 
 Nato določimo predvideno število pojavitev na $j$-tem intervalu kot
 \begin{equation}
     \hat{n_j} = n\hat{p_j},
 \end{equation}
 kjer je $n$ število podatkov o deležih mangana.
-V zadnjem koraku poračunamo razliko korena frekvenc deležev mangana na $j$-tem interval,
+V zadnjem koraku poračunamo razliko korena frekvenc deležev mangana na $j$-tem intervalu,
 kar označimo z $n_j$, s korenom
 ocenjenih ponovitev normalne porazdelitve:
 \begin{equation}
@@ -254,9 +254,9 @@ bodisi s pomarančnim sokom.
 
 \subsection{A del naloge}
 Najprej nas je zanimalo ali dodajanje vitamina C sploh vpliva na rast zob. Za začetek smo izračunali
-povprečno dolžino zobu, glede na količino dodatka vitamina C. Za količino $0.5$ je povprečna dolžina zoba
-$10.605$, za količino $1.0$ je $19.735$, za količino $2.0$ pa $26.100$. To nam da misliti, da dolžina zobu raste 
-z količino dodatka vitamina C.
+povprečno dolžino zoba glede na količino dodatka vitamina C. Za količino $0.5$ povprečna dolžina zoba znaša
+$10.605$, za količino $1.0$ $19.735$, za količino $2.0$ pa $26.100$. To nam da misliti, da dolžina zoba raste 
+s količino dodatka vitamina C.
 S preizkusom dokažimo, da pričakovana vrednost dolžine zoba raste z dodajanjem vitamina C.
 Definirajmo ničelno in alternativno
 hipotezo:
@@ -295,7 +295,7 @@ kar je večje kot $C_{0.05}$. Torej \textbf{ničelno hipotezo zavržemo}.
 
 Podobno storimo še s primerjavo pričakovane vrednosti dolžin zob z dodajanjem količine $1.0$ in $2.0$.
 Z enakim postopkom dobimo $T = 4.90048431719355$, kar je še vedno več kot $C_{0.05}$. Tudi tu \textbf{ničelno hipotezo 
-zavržemo}. Od tod sledi, da res \textbf{dodajanje vitamina C pozitivno vpliva na rast zob}.
+zavržemo}. Od tod sledi, da \textbf{dodajanje vitamina C res pozitivno vpliva na rast zob}.
 
 %------------------B-------------------------------------------------------
 
@@ -312,9 +312,9 @@ Zapišimo hipotezi:
 Ponovno uporabimo vgrajeno funkcijo in dobimo $T = 1.91526826869527$.
 Iz tabele ponovno odčitamo vrednost $C_{0.05}$, tokrat pri stopnji prostosti
 $n + m - 2= 30 + 30 - 2 = 58$. Dobimo $C_{0.05} = 1.6716$. 
-Torej \textbf{ničelno hipotezo ponovno zavržemo}. Sledi, \textbf{dodajanje s pomarančnim sokom je učinkovitejše}.
-Vendar bi za stopnjo tveganja $\alpha=0.01$ ničelno hipotezo obdržali. Namreč, iz tabele bi 
-odčitali vrednost $C_{0.01} = 2.3924$ in $T$ bi bil v takem primeru manjši.
+Torej \textbf{ničelno hipotezo ponovno zavržemo}. Sledi, da je \textbf{dodajanje s pomarančnim sokom učinkovitejše}.
+Vendar bi za stopnjo tveganja $\alpha=0.01$ ničelno hipotezo obdržali, saj bi iz tabele 
+odčitali vrednost $C_{0.01} = 2.3924$, ki je v tem primeru večja od $T$.
 
 Poračunajmo še ali je razlika statistično značilna. Za izračunan $T$ iz danih podatkov moramo 
 poračunati $P(T \geq \CM_{\alpha})$. Izberimo stopnjo tveganosti $\alpha = 0.05$.
