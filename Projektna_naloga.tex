@@ -70,7 +70,7 @@ To nam da misliti, da dohodki niso porazdeljeni normalno.
 
 \subsection{C del naloge}
 V tem delu naloge primerjamo še kumulativni porazdelitveni funkciji podatkov o dohodkih in 
-normalne porazdelitve s pričakovano vrednostjo in standardnim odklonom kot v nalogi \ref{nal1B}.
+normalne porazdelitve s pričakovano vrednostjo in standardnim odklonom, kot v nalogi \ref{nal1B}.
 Kumulativno porazdelitveno funkcijo porazdelitve dohodkov definiramo s pomočjo
 funkcije \texttt{arange}, tako da definiramo seznam deležev. Za normalno porazdelitev pa uporabimo kar že vgrajeno funkcijo
 \texttt{statistics.NormalDist(mean, std).cdf(x)}.
@@ -145,8 +145,7 @@ Zato sem za primerjavo še posebej narisala graf dane normalne porazdelitve.
     \end{center}
 \end{figure}
 Opazimo lahko, da imata graf in histogram vrh pri približno enaki vrednosti abscise, vendar je vrh normalne 
-gostote znatno nižji. Sklepamo lahko, da se krivulja histogramu prilega, vendar je standardni odklon tako velik,
-da je visina krivulje toliko manjsa kot visina histograma.
+gostote znatno nižji. Sklepamo lahko, da se krivulja histogramu prilega.
 
 %----------------G------------------------------------------------------------
 
@@ -311,7 +310,7 @@ Zapišimo hipotezi:
 \end{align}
 
 Ponovno uporabimo vgrajeno funkcijo in dobimo $T = 1.91526826869527$.
-Iz tabele ponovno odčitami vrednost $C_{0.05}$, tokrat pri stopnji prostosti
+Iz tabele ponovno odčitamo vrednost $C_{0.05}$, tokrat pri stopnji prostosti
 $n + m - 2= 30 + 30 - 2 = 58$. Dobimo $C_{0.05} = 1.6716$. 
 Torej \textbf{ničelno hipotezo ponovno zavržemo}. Sledi, \textbf{dodajanje s pomarančnim sokom je učinkovitejše}.
 Vendar bi za stopnjo tveganja $\alpha=0.01$ ničelno hipotezo obdržali. Namreč, iz tabele bi 
