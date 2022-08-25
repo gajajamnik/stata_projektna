@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.11)  24 AUG 2022 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.11)  25 AUG 2022 14:34
 entering extended mode
 **c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/Projektna_naloga.tex
 (c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/Projektna_naloga.tex
@@ -388,88 +388,88 @@ Package pdftex.def Info: figure1A.png  used on input line 43.
 <figure1B.png, id=54, 397.485pt x 264.99pt>
 File: figure1B.png Graphic file (type png)
 <use figure1B.png>
-Package pdftex.def Info: figure1B.png  used on input line 57.
+Package pdftex.def Info: figure1B.png  used on input line 59.
 (pdftex.def)             Requested size: 213.39568pt x 142.26761pt.
  [1
 
 {C:/Users/gajaj/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1A.png>]
-<figure1C.png, id=74, 373.395pt x 248.93pt>
+<figure1C.png, id=75, 373.395pt x 248.93pt>
 File: figure1C.png Graphic file (type png)
 <use figure1C.png>
-Package pdftex.def Info: figure1C.png  used on input line 74.
+Package pdftex.def Info: figure1C.png  used on input line 79.
 (pdftex.def)             Requested size: 213.39568pt x 142.26381pt.
-<figure1D.png, id=76, 417.56pt x 262.9825pt>
+<figure1D.png, id=78, 417.56pt x 262.9825pt>
 File: figure1D.png Graphic file (type png)
 <use figure1D.png>
-Package pdftex.def Info: figure1D.png  used on input line 88.
+Package pdftex.def Info: figure1D.png  used on input line 95.
 (pdftex.def)             Requested size: 213.39568pt x 134.40018pt.
  [2 <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1B.png> <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1C.png>]
-<figure1E.png, id=88, 376.40625pt x 248.93pt>
+<figure1E.png, id=92, 376.40625pt x 248.93pt>
 File: figure1E.png Graphic file (type png)
 <use figure1E.png>
-Package pdftex.def Info: figure1E.png  used on input line 103.
+Package pdftex.def Info: figure1E.png  used on input line 112.
 (pdftex.def)             Requested size: 213.39568pt x 141.1281pt.
-<figure1F.png, id=90, 387.4475pt x 248.93pt>
+<figure1F.png, id=94, 387.4475pt x 248.93pt>
 File: figure1F.png Graphic file (type png)
 <use figure1F.png>
-Package pdftex.def Info: figure1F.png  used on input line 117.
+Package pdftex.def Info: figure1F.png  used on input line 130.
 (pdftex.def)             Requested size: 213.39568pt x 137.10562pt.
  [3 <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1D.png> <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1E.png>]
-<figure1F(1).png, id=102, 413.545pt x 248.93pt>
+<figure1F(1).png, id=107, 413.545pt x 248.93pt>
 File: figure1F(1).png Graphic file (type png)
 <use figure1F(1).png>
-Package pdftex.def Info: figure1F(1).png  used on input line 128.
+Package pdftex.def Info: figure1F(1).png  used on input line 142.
 (pdftex.def)             Requested size: 213.39568pt x 128.45296pt.
-<figure1G.png, id=104, 373.395pt x 248.93pt>
+<figure1G.png, id=109, 373.395pt x 248.93pt>
 File: figure1G.png Graphic file (type png)
 <use figure1G.png>
-Package pdftex.def Info: figure1G.png  used on input line 145.
+Package pdftex.def Info: figure1G.png  used on input line 159.
 (pdftex.def)             Requested size: 213.39568pt x 142.26381pt.
-<figure1G(1).png, id=106, 402.50375pt x 263.98625pt>
+<figure1G(1).png, id=111, 402.50375pt x 263.98625pt>
 File: figure1G(1).png Graphic file (type png)
 <use figure1G(1).png>
-Package pdftex.def Info: figure1G(1).png  used on input line 155.
+Package pdftex.def Info: figure1G(1).png  used on input line 169.
 (pdftex.def)             Requested size: 213.39568pt x 139.95634pt.
  [4 <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1F.png> <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1F(1).png> <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1G.png>]
-<figure2A.png, id=121, 369.38pt x 264.99pt>
+<figure2A.png, id=126, 369.38pt x 264.99pt>
 File: figure2A.png Graphic file (type png)
 <use figure2A.png>
-Package pdftex.def Info: figure2A.png  used on input line 177.
+Package pdftex.def Info: figure2A.png  used on input line 194.
 (pdftex.def)             Requested size: 213.39568pt x 153.08778pt.
  [5 <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure1G(1).png> <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure2A.png>]
-<figure2B.png, id=137, 387.4475pt x 276.03125pt>
+<figure2B.png, id=142, 387.4475pt x 276.03125pt>
 File: figure2B.png Graphic file (type png)
 <use figure2B.png>
-Package pdftex.def Info: figure2B.png  used on input line 212.
+Package pdftex.def Info: figure2B.png  used on input line 229.
 (pdftex.def)             Requested size: 213.39568pt x 152.03246pt.
-<figure2C.png, id=139, 387.4475pt x 263.98625pt>
+<figure2C.png, id=144, 387.4475pt x 263.98625pt>
 File: figure2C.png Graphic file (type png)
 <use figure2C.png>
-Package pdftex.def Info: figure2C.png  used on input line 223.
+Package pdftex.def Info: figure2C.png  used on input line 240.
 (pdftex.def)             Requested size: 213.39568pt x 145.39832pt.
  [6 <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure2B.png> <c:/Users/gajaj/Documents/FAKS/3.letnik/STAT/stata_projektna/figure2C.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
  (c:/Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 330.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `Projektna_naloga.out' has not changed.
 (rerunfilecheck)             Checksum: BD56DCA7B83949F3968121DAD324DF8E;684.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 8022 strings out of 492452
- 118371 string characters out of 3120063
- 230206 words of memory out of 3000000
- 12234 multiletter control sequences out of 15000+200000
- 11195 words of font info for 44 fonts, out of 3000000 for 9000
+ 8029 strings out of 492452
+ 118417 string characters out of 3120063
+ 232206 words of memory out of 3000000
+ 12238 multiletter control sequences out of 15000+200000
+ 12017 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,8n,30p,355b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on c:/Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.pdf (7 pages, 235916 bytes).
+<C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/gajaj/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on c:/Users\gajaj\Documents\FAKS\3.letnik\STAT\stata_projektna\Projektna_naloga.pdf (7 pages, 273907 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
+ 224 PDF objects out of 1000 (max. 8388607)
  40 named destinations out of 1000 (max. 500000)
  229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
