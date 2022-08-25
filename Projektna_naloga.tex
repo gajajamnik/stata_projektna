@@ -21,7 +21,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Prva naloga}
+\section{Prva naloga}\label{nal1}
 
 Pri prvi nalogi smo obravnavali podatke 43.886 družin iz mesta Kibergrad. Natančneje, analizirali smo dohodke
 družin in njihovo porazdelitev primerjali z ustrezno normalno porazdelitvijo.
@@ -35,8 +35,8 @@ Narisali smo histogram dohodkov vseh družin v Kibergradu.
 \end{equation}
 
 kjer sta $q_{\frac{1}{4}}$ in $q_{\frac{3}{4}}$ prvi in tretji kvartil, n pa je število enot.
-Tej formuli pravimo Freedman–Diaconisovo pravilo. Po formuli znaša širina posameznega razreda približno $2128$.
-Glede na interval na katerem so razporejeni dohodki znaša to ravno $223$ razredov v histogramu.
+Tej formuli pravimo Freedman–Diaconisovo pravilo. Po formuli znaša \textbf{širina posameznega razreda} približno $2128$.
+Glede na interval na katerem so razporejeni dohodki znaša to ravno $223$ \textbf{razredov} v histogramu.
 
 \begin{figure}[H]
     \begin{center}
@@ -48,7 +48,7 @@ Glede na interval na katerem so razporejeni dohodki znaša to ravno $223$ razred
 
 %----------------------B---------------------------------------------------------------------
 
-\subsection{B del naloge}
+\subsection{B del naloge}\label{nal1B}
 
 V B delu naloge smo v histogram dorisali še normalno gostoto, katere pričakovana vrednost se ujema s povprečjem
 dohodkov družin v Kibergradu, standardni odklon pa s standardnim odklonom podatkov o dohodkih družin.
@@ -70,9 +70,9 @@ To nam da misliti, da dohodki niso porazdeljeni normalno.
 
 \subsection{C del naloge}
 V tem delu naloge primerjamo še kumulativni porazdelitveni funkciji podatkov o dohodkih in 
-normalne porazdelitve s pričakovano vrednostjo in standardnim odklonom kot v nalogi B.
+normalne porazdelitve s pričakovano vrednostjo in standardnim odklonom kot v nalogi \ref{nal1B}.
 Kumulativno porazdelitveno funkcijo porazdelitve dohodkov definiramo s pomočjo
-funkcije arange, tako da definiramo seznam deležev. Za normalno porazdelitev pa uporabimo kar že vgrajeno funkcijo
+funkcije \texttt{arange}, tako da definiramo seznam deležev. Za normalno porazdelitev pa uporabimo kar že vgrajeno funkcijo
 \texttt{statistics.NormalDist(mean, std).cdf(x)}.
 \begin{figure}[H]
     \begin{center}
@@ -82,7 +82,7 @@ funkcije arange, tako da definiramo seznam deležev. Za normalno porazdelitev pa
     \end{center}
 \end{figure}
 
-Grafa se od vrednosti $150000$ skoraj popolnoma prilegata,
+Grafa se od vrednosti $150000$ dalje skoraj popolnoma prilegata,
 kar smo opazili že na grafu \ref{1B}. Na levi strani pa je nekaj manjših odstopanj.
 
 %---------------------D------------------------------------------------------------------------------
@@ -145,13 +145,13 @@ Zato sem za primerjavo še posebej narisala graf dane normalne porazdelitve.
     \end{center}
 \end{figure}
 Opazimo lahko, da imata graf in histogram vrh pri približno enaki vrednosti abscise, vendar je vrh normalne 
-gostote znatno nižji. Sklepamo lahko, da se krivulja histogramu dobro prilega, vendar je standardni odklon tako velik,
+gostote znatno nižji. Sklepamo lahko, da se krivulja histogramu prilega, vendar je standardni odklon tako velik,
 da je visina krivulje toliko manjsa kot visina histograma.
 
 %----------------G------------------------------------------------------------
 
 \subsection{G del naloge}
-Za boljšo primerjavo porazdelitve povprečij slučajnih vzorcev in nomralne porazdelitve iz naloge F
+Za boljšo primerjavo porazdelitve povprečij slučajnih vzorcev in normalne porazdelitve iz naloge F
 smo primerjali še kumulativni porazdelitveni funkciji obeh porazdelitev.
 Iz grafa \ref*{CDFpovprecja} opazimo, da se funkciji dobro prilegata.
 \begin{figure}[H]
@@ -186,7 +186,7 @@ mangana smo primerjali z normalno porazdelitvijo, katere pričakovana vrednost i
 se ujemata s povprečjem in standardnim odklonom deležev mangana iz raziskave.
 
 Najprej smo narisali histogram vseh deležev z dorisano normalno gostoto. Širino posameznega razreda v histogramu 
-smo kot v nalogi 1 izračunali s pomočjo Freedman-Diaconisovega pravila. \textbf{Širina razreda} je znašala
+smo kot v nalogi \ref{nal1} izračunali s pomočjo Freedman-Diaconisovega pravila. \textbf{Širina razreda} je znašala
 $0.07298642394688079$, kar je ravno $11$ \textbf{razredov}.
 
 \begin{figure}[H]
@@ -285,8 +285,8 @@ Iz formule
 \[
         P(T \geq \CM_{\alpha}) \leq \alpha 
     \]
-moramo nato poračunati $C_{\alpha}$. To storimo tako, da iz razpredelnico odčitamo inverz Studentove porazdelitve,
-pri stopnji tveganja $\alpha = 0.00$ in pri stopnji prostosti $n + m -2 = 58$.
+moramo nato poračunati $C_{\alpha}$. To storimo tako, da iz razpredelnice odčitamo inverz Studentove porazdelitve,
+pri stopnji tveganja $\alpha = 0.00$ in pri stopnji prostosti $n + m -2 = 38$.
 Dobljena vrednost je $C_{0.05} = 1.6860$.
 
 Iz podatkov iz našega vzorca moramo sedaj poračunati vrednost spremenljivke $T$. To lahko naredimo 
@@ -306,7 +306,7 @@ Studentovim t-testom.
 Naj $P$ označuje slučajno spremenljivko za dolžino zob pri dodajanju s pomarančnim sokom, $N$ pa pri neposrednem dodajanju.
 Zapišimo hipotezi:
 \begin{align}
-    H0: \mu_P \le \mu_N \\
+    H0: \mu_P = \mu_N \\
     H1: \mu_P > \mu_N
 \end{align}
 
@@ -319,8 +319,8 @@ odčitali vrednost $C_{0.01} = 2.3924$ in $T$ bi bil v takem primeru manjši.
 
 Poračunajmo še ali je razlika statistično značilna. Za izračunan $T$ iz danih podatkov moramo 
 poračunati $P(T \geq \CM_{\alpha})$. Izberimo stopnjo tveganosti $\alpha = 0.05$.
-Verjetnost z leve strani neenačaja lahko ponovno poračunamo z vgrajeno funkcijo \texttt{stats.ttest\_ind}.
-Dobimo vrednost $p=0.03019668561206424$. To vrednost sedaj primerjamo s $\alpha$. Ker je 
+Verjetnost lahko poračunamo z vgrajeno funkcijo \texttt{stats.ttest\_ind}.
+Dobimo vrednost $p=0.03019668561206424$. To vrednost sedaj primerjamo z $\alpha$. Ker je 
 $p < \alpha$ je razlika \textbf{statistično značilna}.
 
 
